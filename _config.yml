@@ -35,7 +35,7 @@ github_username:  jeffjras
 linkedin_username: jeffjras
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 collections:
