@@ -50,7 +50,7 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,idea,git,kafka,kubernates,aws,azure,gcp,grafana,docker,redis,dynamodb,vscode,phpstorm,pycharm,vscode,postman,gitlab,github,heroku,firebase,nodejs,postman,insomnia" />
+    <img src="https://skillicons.dev/icons?i=linux,idea,git,kafka,kubernetes,aws,azure,gcp,grafana,docker,redis,dynamodb,vscode,phpstorm,pycharm,vscode,postman,gitlab,github,heroku,firebase,nodejs,postman,insomnia" />
   </a>
 </p>
 
