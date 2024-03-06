@@ -10,19 +10,19 @@
 </div>
 
 # 💫 About Me:
-M.Sc Computer Science and Software Engineering Student at Institute of Exact and Natural Science of Federal University of Pará. I have a lot of experience with software development since 1998. I am proactive and dynamic with a critical mindset, I've been communications abilities, teamwork and positive attitude. Focused on ability to recover from crisis situations and learn from them. I about having a flexible mind and optimistic thinking with clear goals and the certainty that everything will pass on problems of life. A passionate Full Stack Web Developer with strong problem-solving abilities, proficient in Java, JavaScript, Kotlin, Redis, Oracle DB, Cloud AWS, GCP, Typescript and Automated Tests with Puppet, Ansible, I am looking for to learn new technologies and frameworks. Looking forward to start anything that me grow professionally and new opportunity of career.
+M.Sc Computer Science and Software Engineering Student at Institute of Exact and Natural Science of Federal University of Pará. I have a lot of experience with software development since 1998. I am proactive and dynamic with a critical mindset, I've been communications abilities, teamwork and positive attitude. Focused on ability to recover from crisis situations and learn from them. I about having a flexible mind and optimistic thinking with clear goals and the certainty that everything will pass on problems of life. A passionate Full Stack Web Developer with strong problem-solving abilities, proficient in Java, JavaScript, Kotlin, Redis, Oracle DB, Cloud AWS, GCP, Typescript and Automated Tests with Puppet, Ansible, I am looking for to learn new Technologies and Frameworks. Looking forward to start anything that me grow professionally and new opportunity of career.
 - 🌱 I’m currently learning IA Stack 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me: junior.jefferson@gmail.com
 - 👨‍💻 Some of my projects are available at https://github.com/jeffjras
-- 🌐 Portfolio [https://jeffjras.github.io/](https://jeffjras.github.io/)  
+- 🌐 Portfolio [https://jeffjras.github.io/portfolio](https://jeffjras.github.io/portfolio)  
 - 💬 Ask me about Back-end Applications 
 
 <div align="left">
 
 | Q                           | A                                                 |
 | --------------------------- | --------------------------------------------------|
-| **Hadware**                 | `Dell Inspiron - Core i7 - NVidia`                |
+| **Hadware**                 | `Dell Inspiron - Core i7 - IRIS Xe Graphics`      |
 | **IDE**                     | `IntelliJ - VSCode - PCharm `                     |
 | **Platforms I Develop For** | `Desktop - Web - Mobile - Embedded`               |
 | **Proficiency With**        | `Java, Kotlin, Python, JavaScript`                |
