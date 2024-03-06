@@ -16,7 +16,7 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 - 📫 How to reach me: junior.jefferson@gmail.com
 - 👨‍💻 Some of my projects are available at https://github.com/jeffjras
 - 🌐 Portfolio [https://jeffjras.github.io/portfolio](https://jeffjras.github.io/portfolio)  
-- 💬 Ask me about Back-end Applications 
+- 💬 Ask me about Full-Stack Applications 
 
 <div align="left">
 
@@ -42,7 +42,7 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,typescript,react,nodejs,css,js,materialui,mongodb,chakra" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,redhat,html,ansible,angular,bootstrap,typescript,react,nodejs,css,js,materialui,mongodb,py,rabbitmq, postgres" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,intellij,vscode,postman,github,heroku,firebase,nodejs,postman,insomnia" />
+    <img src="https://skillicons.dev/icons?i=linux,idea,git,kafka,kubernates,aws,azure,gcp,grafana,docker,redis,dynamodb,vscode,phpstorm,pycharm,vscode,postman,gitlab,github,heroku,firebase,nodejs,postman,insomnia" />
   </a>
 </p>
 
