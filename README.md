@@ -33,7 +33,7 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 
 </div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffjras/) [![Profile Views](https://komarev.com/ghpvc/?username=shagunsharma6677)]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjS8qjg0vv8AhXk1TgGHd8JCpkQFnoECAsQAQ&url=http%3A%2F%2Fgmail.com%2F&usg=AOvVaw1IY5DlHv7sVJiBpcgaXCjz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffjras/) ![Profile Views](https://komarev.com/ghpvc/?username=jeffjras)
 
 
 # 💻 Tech Stack:
