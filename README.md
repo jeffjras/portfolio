@@ -1,4 +1,4 @@
-# Jefferson Alves' Portfolio 
+# Jefferson Alve's Portfolio 
 
 # <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me, Jefferson Alves</p>
 
@@ -50,7 +50,7 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,idea,git,kafka,kubernetes,aws,azure,gcp,grafana,docker,redis,dynamodb,vscode,phpstorm,pycharm,vscode,postman,gitlab,github,heroku,firebase,nodejs,postman,insomnia" />
+    <img src="https://skillicons.dev/icons?i=linux,idea,git,kafka,kubernetes,aws,azure,gcp,grafana,docker,redis,dynamodb,vscode,phpstorm,pycharm,vscode,postman,gitlab,github,heroku,firebase,nodejs" />
   </a>
 </p>
 
@@ -65,6 +65,11 @@ M.Sc Computer Science and Software Engineering Student at Institute of Exact and
 - 1st Place in the Best TCC 2018/2019 Award
 
 - 3rd Place in the Technology Course in Systems Analysis and Development 
+
+- I have a virtual library with more than sixty books about IT filed
+
+- I have more than forty recent books printed about IT field
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="black">
